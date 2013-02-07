@@ -41,7 +41,7 @@ client.get_workers()
 ```
 Gets all the workers
 ```
-client.get_api_status
+client.get_api_status()
 ```
 Gets your API status
 
